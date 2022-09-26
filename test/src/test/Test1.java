@@ -12,7 +12,9 @@ public class Test1 {
         System.out.println("1111111112");
         System.out.println("1111111112");
         System.out.println("1111111112");
+        System.out.println("master commit");
         System.out.println("hot-fix-commit");
+        System.out.println("master commit");
 
     }
 }
